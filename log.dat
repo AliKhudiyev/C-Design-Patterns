@@ -1,0 +1,5 @@
+SYSNAME: whos-gon-carry-the-logs-v1.2 | ELAPSED: 0
+INFO: hello world!
+ALERT: this is an alert...
+WARNING: the system has a warning
+ERROR: aborting due to critical error!
